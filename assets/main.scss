@@ -3,3 +3,23 @@
 ---
 
 @import "../node_modules/bulma/bulma.sass";
+
+.page-content p {
+  @extend .block
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @extend .title
+}
+
+h1 {
+  @extend .is-1
+}
+
+h2 {
+  @extend .is-2
+}
+
+h3 {
+  @extend .is-3
+}
