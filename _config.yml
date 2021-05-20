@@ -30,7 +30,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-include:
+includes:
   - node_modules
 
 # Exclude from processing.
