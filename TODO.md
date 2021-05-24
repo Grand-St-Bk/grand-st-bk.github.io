@@ -15,3 +15,4 @@
 - [ ] get embedded calendar to work
 - [ ] create favicon for site
 - [ ] choose/update licenses for site
+- [ ] add top banner image (or do it with html/css)
