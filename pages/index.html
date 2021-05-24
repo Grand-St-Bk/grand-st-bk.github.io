@@ -1,0 +1,45 @@
+---
+layout: page
+permalink: /
+---
+<section>
+  <div class="columns">
+    <div class="column">
+      <h2>Hours</h2>
+    </div>
+    <div class="column">
+      <h2>About</h2>
+      <p>
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+        when an unknown printer took a galley of type and scrambled it to make a type
+        specimen book. It has survived not only five centuries, but also the leap into
+        electronic typesetting, remaining essentially unchanged. It was popularised
+        in the 1960s with the release of Letraset sheets containing Lorem Ipsum
+        passages, and more recently with desktop publishing software like Aldus
+        PageMaker including versions of Lorem Ipsum.
+      </p>
+    </div>
+    <div class="column">
+      Calendar
+    </div>
+  </div>
+</section>
+
+<section class="hero">
+  <div class="hero-body">
+    <p class="title">
+      Image of businesses
+    </p>
+  </div>
+</section>
+
+<section>
+  <ul>
+  {% for business in site.data.businesses %}
+    <li>
+        {{ business.businessName }}
+    </li>
+  {% endfor %}
+  </ul>
+</section>
