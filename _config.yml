@@ -35,6 +35,7 @@ includes:
 exclude:
   - package.json
   - README.md
+  - TODO.md
   - yarn.lock
   - Gemfile
   - Gemfile.lock

@@ -13,3 +13,5 @@
 - [ ] rename static css/js files to application.*
 - [ ] create cards for business display
 - [ ] get embedded calendar to work
+- [ ] create favicon for site
+- [ ] choose/update licenses for site
