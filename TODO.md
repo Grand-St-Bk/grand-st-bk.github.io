@@ -9,8 +9,8 @@
 - [ ] resize logos and other new images
 - [x] add/update copy as necessary
 - [ ] format and clean data from businesses links, phone numbers, etc 
-- [ ] add js for mobile show/hide hamburger menu
-- [ ] rename static css/js files to application.*
+- [x] add js for mobile show/hide hamburger menu
+- [x] rename static css/js files to application.*
 - [ ] create cards for business display
 - [x] get embedded calendar to work
 - [ ] create favicon for site
