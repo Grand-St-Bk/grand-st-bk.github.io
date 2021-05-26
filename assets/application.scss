@@ -5,28 +5,21 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand:400,700');
 
 // Set your brand colors
-$purple: #274393;
-$pink: #E76E86;
-$brown: #757763;
-$beige-light: #fcf8e5;
-$beige-lighter: #fffef9;
+$dark_cornflower_blue: #274393;
+$ultra_red: #E76E86;
+$go_green: #0EAD69;
+$sunglow: #FFD23F;
+$carribean_green: #3BCEAC;
+$sunglow_background: #fcf8e5;
 
 // Update Bulma's global variables
 $family-sans-serif: "Quicksand", sans-serif;
-$grey-dark: $brown;
-$grey-light: $beige-light;
-$primary: $purple;
-$link: $pink;
-$widescreen-enabled: false;
-$fullhd-enabled: false;
+$primary: $dark_cornflower_blue;
+$link: $ultra_red;
 
-// Update some of Bulma's component variables
-//$body-background-color: $beige-light;
-$scheme-main: $beige-lighter;
-
-$control-border-width: 2px;
-$input-border-color: transparent;
-$input-shadow: none;
+$navbar-background-color: $sunglow_background;
+$navbar-item-hover-background-color: $sunglow;
+$navbar-item-hover-color: $go_green;
 
 @import "../node_modules/bulma/bulma.sass";
 
@@ -35,7 +28,8 @@ $input-shadow: none;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  @extend .title
+  @extend .title;
+  color: $dark_cornflower_blue;
 }
 
 h1 {
@@ -50,3 +44,36 @@ h3 {
   @extend .is-3
 }
 
+.card ul {
+  list-style: none;
+  margin: 0;
+}
+
+.site-header div.decorator {
+  width: 100%;
+  height: 12rem;
+  background-color: $scheme-main-bis;
+}
+
+.site-header div.outer {
+  border-left: 2rem solid #274393;
+  border-right: 2rem solid #0EAD69; 
+}
+
+.site-header div.middle {
+  border-left: 2rem solid #E76E86;
+  border-right: 2rem solid #3BCEAC;
+}
+
+.site-header div.inner {
+  background-image: url({{site.baseurl}}/assets/images/grand-st-logo_header.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  border: 2rem solid #FFD23F;
+  border-top: none;
+  border-bottom: none;
+}
+
+.card-header-title {
+  color: $go_green;
+}

@@ -1,5 +1,6 @@
 <header class="site-header" role="banner">
 
+<!--
   <div style="width: 100%; background: #fcf8e5; border-left: 2rem solid #274393; border-right: 2rem solid #0EAD69; height: 12rem;">
     <div style="width: 100%; border-left: 2rem solid #E76E86; border-right: 2rem solid #3BCEAC; height: 12rem;">
       <div style="
@@ -12,7 +13,14 @@
       </div>
     </div>
   </div>
-
+-->
+  <div class="decorator outer">
+    <div class="decorator middle">
+      <div class="decorator inner">
+        
+      </div>
+    </div>
+  </div>
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
@@ -20,7 +28,7 @@
       <nav class="navbar" role="navigation" aria-label="main navigation">
         <div class="navbar-brand">
           <a class="navbar-item" href="/">
-            <img src="{{site.baseurl}}/assets/images/flower-sm.png" alt="Grand St. Flower">
+            <img src="{{site.baseurl}}/assets/images/flower-sm-transparent.png" alt="Grand St. Flower">
           </a>
 
           <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">

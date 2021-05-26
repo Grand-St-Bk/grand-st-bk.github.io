@@ -12,7 +12,7 @@ permalink: /
         SUN 12p-6pm
     </div>
     <div class="column">
-      <h2>ABOUT</h2>
+      <h2>About</h2>
       <p>Welcome to Grand St. BK - where Williamsburg's SouthSide community comes together!</p>
       <p>Every Weekend from Memorial Day to Labor Day join us in activities and events hosted by local businesses and organized by community residents.</p>
       <p>For more details check out the Calendar of Events, FAQ page, and other links below!</p>
@@ -22,6 +22,8 @@ permalink: /
     </div>
   </div>
 </section>
+
+<hr>
 
 <section class="hero">
   <div class="hero-body">
@@ -39,19 +41,40 @@ permalink: /
     <div class="column is-one-third">
 
       <div class="card">
-        <div class="card-image">
-          <figure class="image is-128x128">
-            <img src="https://bulma.io/images/placeholders/480x480.png" alt="Placeholder image">
-          </figure>
-        </div>
+        <header class="card-header">
+          <div class="card-image">
+            <figure class="image is-128x128">
+              <img src="https://bulma.io/images/placeholders/480x480.png" alt="Placeholder image">
+            </figure>
+          </div>
+          <h4 class="card-header-title">{{ business.businessName }}</h4>
+        </header>
+        
         <div class="card-content">
-          <h4>{{ business.businessName }}</h4>
-          {% if business.businessInstagram %}
-            <p>Instagram: <a href="https://www.instagram.com/{{business.businessInstagram}}">@{{business.businessInstagram}}</a></p>
-          {% endif %}
-
           <div class="content">
-            {{ business.businessBio }}
+            <ul>
+              {% if business.businessWebsiteUrl %}
+                <li>Website: <a href="{{business.businessWebsiteUrl}}">{{business.businessWebsiteUrl}}</a></li>
+              {% endif %}
+              {% if business.businessInstagram %}
+                <li>Instagram: <a href="https://www.instagram.com/{{business.businessInstagram}}">@{{business.businessInstagram}}</a></li>
+              {% endif %}
+              {% if business.businessFacebook %}
+                <li>Facebook: <a href="https://facebook.com/{{business.businessFacebook}}">@{{business.businessFacebook}}</a></li>
+              {% endif %}
+              {% if business.businessTwitter %}
+                <li>Twitter: <a href="https://twitter.com/{{business.businessTwitter}}">@{{business.businessTwitter}}</a></li>
+              {% endif %}
+            </ul>
+            <p>{{ business.businessBio }}</p>
+            {% if business.anyOtherBusinessRelatedLinks %}
+              {% assign links = business.anyOtherBusinessRelatedLinks | split: "\n" %}
+              <ul>
+              {% for link in links %}
+                <li><a href="{{ link }}">{{ link }}</a></li>
+              {% endfor %}
+            </ul>
+            {% endif %}
           </div>
         </div>
       </div>
