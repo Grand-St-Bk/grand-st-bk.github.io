@@ -29,6 +29,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
+business_columns: 3
+
 includes:
   - node_modules
 
