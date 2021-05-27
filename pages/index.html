@@ -54,16 +54,47 @@ permalink: /
           <div class="content">
             <ul>
               {% if business.businessWebsiteUrl %}
-                <li>Website: <a href="{{business.businessWebsiteUrl}}">{{business.businessWebsiteUrl}}</a></li>
+                <li>
+                  <span class="icon-text">
+                    <span class="icon">
+                      <ion-icon name="globe-outline">Website:</ion-icon>
+                    </span>
+                    <span><a href="{{business.businessWebsiteUrl}}">{{business.businessName}}</a></span>
+                  </span>
+                </li>
               {% endif %}
+
               {% if business.businessInstagram %}
-                <li>Instagram: <a href="https://www.instagram.com/{{business.businessInstagram}}">@{{business.businessInstagram}}</a></li>
+                <li>
+                  <span class="icon-text">
+                    <span class="icon">
+                      <ion-icon name="logo-instagram">Instagram:</ion-icon>
+                    </span>
+                    <span><a href="https://www.instagram.com/{{business.businessInstagram}}">@{{business.businessInstagram}}</a></span>
+                  </span>
+                </li>
               {% endif %}
+
               {% if business.businessFacebook %}
-                <li>Facebook: <a href="https://facebook.com/{{business.businessFacebook}}">@{{business.businessFacebook}}</a></li>
+                <li>
+                  <span class="icon-text">
+                    <span class="icon">
+                      <ion-icon name="logo-facebook">Facebook:</ion-icon>
+                    </span>
+                    <span><a href="https://facebook.com/{{business.businessFacebook}}">@{{business.businessFacebook}}</a></span>
+                  </span>
+                </li>
               {% endif %}
+
               {% if business.businessTwitter %}
-                <li>Twitter: <a href="https://twitter.com/{{business.businessTwitter}}">@{{business.businessTwitter}}</a></li>
+                <li>
+                  <span class="icon-text">
+                    <span class="icon">
+                      <ion-icon name="logo-twitter">Twitter:</ion-icon>
+                    </span>
+                    <span><a href="https://twitter.com/{{business.businessTwitter}}">@{{business.businessTwitter}}</a></span>
+                  </span>
+                </li>
               {% endif %}
             </ul>
             <p>{{ business.businessBio }}</p>
