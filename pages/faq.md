@@ -5,15 +5,15 @@ permalink: /faq/
 ---
 
 ## What is Grand St. BK?
-Grand St. BK is a volunteer based community organized website for local residents and businesses of Grand Street between Havemeyer and Marcy and the surrounding blocks. 
+Grand St. BK is a volunteer based community organized website for local residents and businesses of [Grand Street between Havemeyer and Marcy](https://goo.gl/maps/3ytFyhNoUv8jLUf79) and the surrounding blocks. 
 
-Our mission is to provide a safe and welcoming space for New Yorkers to gather and enjoy NYC Open Streets on Grand Street this summer. 
+Our mission is to provide a safe and welcoming space for New Yorkers to gather and enjoy [NYC Open Streets](https://www1.nyc.gov/html/dot/html/pedestrians/openstreets.shtml) on Grand Street this summer. 
 
 ## What is the significance of the Flower in the Logo?
-The flower represents the Callery Pear Tree flower that blooms every spring. The flower is an iconic symbol of our corner of Williamsburg as Callery Pear Trees line Havemeyer street from Grand to Metropolitan. The tree symbolizes sustenance, generosity, and longevity. It is tolerant of change and can withstand pollution. It provides shade and attracts beautiful song birds. 
+The flower represents the [Callery Pear Tree](https://en.wikipedia.org/wiki/Pyrus_calleryana) flower that blooms every spring. The flower is an iconic symbol of our [corner of Williamsburg](https://tree-map.nycgovparks.org/tree-map/tree/1054003) as Callery Pear Trees line Havemeyer street from Grand to Metropolitan. The tree symbolizes sustenance, generosity, and longevity. It is tolerant of change and can withstand pollution. It provides shade and attracts beautiful song birds. 
 
 ## What is NYC Open Streets?
-NYC’s Open Streets program allows communities to embrace new public space and support small businesses. Open Streets prioritize pedestrians and cyclists by transforming streets into public space. Open Streets are coordinated in partnership with local community organizations. 
+NYC's Open Streets program allows communities to embrace new public space and support small businesses. Open Streets prioritize pedestrians and cyclists by transforming streets into public space. Open Streets are coordinated in partnership with local community organizations. 
 
 **Grand St. Permit Type**: *Temporary Full Closure*
 Find out more about NYC Open Streets here. 
@@ -45,6 +45,6 @@ Everyone is welcome and we are all here to have fun! Please inform a Street Team
 ## Questions / Concerns:
 [Email us](mailto:grandstbkny@gmail.com)!
 
-**Street Team Volunteers**: Street Team volunteers will be helping out by picking up trash, maintaining placement of street barriers, welcoming new folks to the block, and assisting businesses and residents in setting up tables and other activities. Join the Street Team today! (link to page)
+**Street Team Volunteers**: [Street Team volunteers](/street-team) will be helping out by picking up trash, maintaining placement of street barriers, welcoming new folks to the block, and assisting businesses and residents in setting up tables and other activities. Join the Street Team today! (link to page)
 
-**Local Businesses**: Join the Grand St. BK community! (link to page)
+**Local Businesses**: [Join the Grand St. BK](/business) community!

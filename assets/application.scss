@@ -17,7 +17,7 @@ $family-sans-serif: "Quicksand", sans-serif;
 $primary: $dark_cornflower_blue;
 $link: $ultra_red;
 
-$navbar-background-color: $sunglow_background;
+$navbar-background-color: #fafafa;
 $navbar-item-hover-background-color: $sunglow;
 $navbar-item-hover-color: $go_green;
 
@@ -63,7 +63,7 @@ h3 {
 .site-header div.decorator {
   width: 100%;
   height: 12rem;
-  background-color: $scheme-main-bis;
+  background-color: #fff;
 }
 
 .site-header div.outer {

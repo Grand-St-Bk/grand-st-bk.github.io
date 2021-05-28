@@ -1,26 +1,4 @@
 <header class="site-header" role="banner">
-
-<!--
-  <div style="width: 100%; background: #fcf8e5; border-left: 2rem solid #274393; border-right: 2rem solid #0EAD69; height: 12rem;">
-    <div style="width: 100%; border-left: 2rem solid #E76E86; border-right: 2rem solid #3BCEAC; height: 12rem;">
-      <div style="
-        width: 100%;
-        background-image: url({{site.baseurl}}/assets/images/grand-st-logo_header.png);
-        background-repeat: no-repeat;
-        background-position: center;
-        border: 2rem solid #FFD23F; border-top: none; border-bottom: none; height: 12rem;">
-
-      </div>
-    </div>
-  </div>
--->
-  <div class="decorator outer">
-    <div class="decorator middle">
-      <div class="decorator inner">
-        
-      </div>
-    </div>
-  </div>
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
@@ -54,5 +32,13 @@
         </div>
       </nav>
     {%- endif -%}
+  </div>
+
+  <div class="decorator outer">
+    <div class="decorator middle">
+      <div class="decorator inner">
+        
+      </div>
+    </div>
   </div>
 </header>
