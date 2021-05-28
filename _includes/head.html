@@ -3,8 +3,10 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
-  <link rel="stylesheet" href="{{ "/assets/application.css" | relative_url }}">
-  <script type="text/javascript" src="{{ "/assets/application.js" | relative_url }}"></script>
+  {% assign cache_bust = site.time | date:'?v=%s' %}
+
+  <link rel="stylesheet" href="{{ "/assets/application.css" | relative_url | append: cache_bust }}">
+  <script type="text/javascript" src="{{ "/assets/application.js" | relative_url | append: cache_bust }}"></script>
   <script type="module" src="https://unpkg.com/ionicons@5.0.0/dist/ionicons/ionicons.esm.js"></script>
   <script nomodule="" src="https://unpkg.com/ionicons@5.0.0/dist/ionicons/ionicons.js"></script>
   {%- feed_meta -%}
