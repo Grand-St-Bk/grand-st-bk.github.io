@@ -1,6 +1,11 @@
 [
    {
-      "businessName":"Gertie"
+      "businessName":"Gertie",
+      "businessWebsiteUrl":"https://www.gertie.nyc/",
+      "businessPhoneNumber":"718-636-0902",
+      "businessInstagram":"gertienyc",
+      "businessFacebook":"GertieBrooklyn",
+      "businessBio":"We're Gertie a Modern Jew-ish Delicatessen + Bar.  Gertie has always been a community space, and we are so excited to invite people back in this summer for delicious food + beverage + comedy, music and games on Grand St."
    },
    {
       "businessName":"Twenty Sided Store",
@@ -9,7 +14,7 @@
       "businessInstagram":"20sidedstore",
       "businessFacebook":"20sidedstore",
       "businessTwitter":"20sidedstore",
-      "anyOtherBusinessRelatedLinks":"https://twitch.tv/20sidedtv",
+      "businessTwitch":"20sidedtv",
       "businessBio":"Twenty Sided Store has been bringing people together since 2011. Celebrate 10 years of Twenty Sided with us this summer for Grand St. BK Open Streets Block Party and play games with us all summer long!"
    },
    {
@@ -17,7 +22,10 @@
       "businessWebsiteUrl":"https://www.fullcirclebar.com/",
       "businessInstagram":"fullcirclebarbk",
       "businessFacebook":"fullcirclebar",
-      "anyOtherBusinessRelatedLinks":"https://www.brewskeeball.com/\nhttps://5holecornhole.com/",
+      "altWebsite1Title":"Brewskee-Ball",
+      "altWebsiteUrl":"https://www.brewskeeball.com/",
+      "altWebsite2Title":"Five Corn Hole",
+      "altWebsite2Url":"https://5holecornhole.com/",
       "businessBio":"Can't wait to roll some skee-balls, toss some bags, drink some beers and sip some frozen margs together this summer! We love our slice of Grand Street and we love you."
    },
    {
@@ -25,7 +33,7 @@
       "businessWebsiteUrl":"http://www.aboutglamour.net/",
       "businessPhoneNumber":"718-599-3044",
       "businessInstagram":"aboutglamourinc",
-      "anyOtherBusinessRelatedLinks":"https://www.instagram.com/aggallerybrooklyn/",
+      "altInstagram":"aggallerybrooklyn",
       "businessBio":"About Glamour + AG Gallery is a designers and fine vintage clothing store and an contemporary art gallery located in Williamsburg since 2003. Our current business hours are 12-7PM open everyday."
    },
    {
@@ -55,8 +63,8 @@
       "businessName":"M Shanghai",
       "businessWebsiteUrl":"https://m-shanghai.com/",
       "businessPhoneNumber":"718-384-9300",
-      "businessInstagram":"Mshanghaibistroandgarden",
-      "businessFacebook":"M shanghai",
+      "businessInstagram":"mshanghaibk",
+      "businessFacebook":"M-Shanghai-Bistro-and-Garden-167202726669641",
       "businessBio":"We provide freshly made dumplings and dishes, famous for our soup dumpling! "
    },
    {
@@ -66,6 +74,6 @@
       "businessInstagram":"union_pool",
       "businessFacebook":"UnionPool1",
       "businessTwitter":"UnionPool",
-      "businessBio":" "
+      "businessBio":"Union Pool has been a Brooklyn mainstay for over 20 years hosting innumerable concerts, benefits, and other live events. It is both a local bar and destination for those visiting NYC."
    }
 ]

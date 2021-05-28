@@ -34,8 +34,6 @@ permalink: /
 </section>
 
 <section>
-  <h3>Businesses Participating</h3>
-
   <div class="columns is-multiline">
     {% for business in site.data.businesses %}
     <div class="column is-one-third">
@@ -44,7 +42,7 @@ permalink: /
         <header class="card-header">
           <div class="card-image">
             <figure class="image is-128x128">
-              <img src="https://bulma.io/images/placeholders/480x480.png" alt="Placeholder image">
+              <img src="/assets/images/logos/{{ business.businessName | downcase | replace: ' ', '-' }}.png" alt="{{ business.businessName }}">
             </figure>
           </div>
           <h4 class="card-header-title">{{ business.businessName }}</h4>
@@ -52,6 +50,7 @@ permalink: /
         
         <div class="card-content">
           <div class="content">
+            <p>{{ business.businessBio }}</p>
             <ul>
               {% if business.businessWebsiteUrl %}
                 <li>
@@ -71,6 +70,17 @@ permalink: /
                       <ion-icon name="logo-instagram">Instagram:</ion-icon>
                     </span>
                     <span><a href="https://www.instagram.com/{{business.businessInstagram}}">@{{business.businessInstagram}}</a></span>
+                  </span>
+                </li>
+              {% endif %}
+
+              {% if business.altInstagram %}
+                <li>
+                  <span class="icon-text">
+                    <span class="icon">
+                      <ion-icon name="logo-instagram">Instagram:</ion-icon>
+                    </span>
+                    <span><a href="https://www.instagram.com/{{business.altInstagram}}">@{{business.altInstagram}}</a></span>
                   </span>
                 </li>
               {% endif %}
@@ -96,16 +106,47 @@ permalink: /
                   </span>
                 </li>
               {% endif %}
+
+              {% if business.businessTwitch %}
+                <li>
+                  <span class="icon-text">
+                    <span class="icon">
+                      <ion-icon name="logo-twitch">Twitch:</ion-icon>
+                    </span>
+                    <span><a href="https://twitch.com/{{business.businessTwitch}}">@{{business.businessTwitch}}</a></span>
+                  </span>
+                </li>
+              {% endif %}
+
+              {% if business.altWebsite1Title %}
+                {% for link in links %}
+                  <li><a href="{{ link }}">{{ link }}</a></li>
+                {% endfor %}
+              {% endif %}
+
+              {% if business.altWebsite1Title %}
+                <li>
+                  <span class="icon-text">
+                    <span class="icon">
+                      <ion-icon name="globe-outline">Website:</ion-icon>
+                    </span>
+                    <span><a href="{{business.altWebsiteUrl}}">{{business.altWebsite1Title}}</a></span>
+                  </span>
+                </li>
+              {% endif %}
+
+              {% if business.altWebsite2Title %}
+                <li>
+                  <span class="icon-text">
+                    <span class="icon">
+                      <ion-icon name="globe-outline">Website:</ion-icon>
+                    </span>
+                    <span><a href="{{business.altWebsite2Url}}">{{business.altWebsite2Title}}</a></span>
+                  </span>
+                </li>
+              {% endif %}
             </ul>
-            <p>{{ business.businessBio }}</p>
-            {% if business.anyOtherBusinessRelatedLinks %}
-              {% assign links = business.anyOtherBusinessRelatedLinks | split: "\n" %}
-              <ul>
-              {% for link in links %}
-                <li><a href="{{ link }}">{{ link }}</a></li>
-              {% endfor %}
-            </ul>
-            {% endif %}
+            
           </div>
         </div>
       </div>

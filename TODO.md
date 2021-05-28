@@ -3,10 +3,9 @@
 (no particular order)
 
 - [X] Add color scheme to sass file
-- [ ] Update fonts
+- [x] Update fonts
 - [ ] include only bulma css that is needed for site
 - [ ] update logo
-- [ ] resize logos and other new images
 - [x] add/update copy as necessary
 - [x] format and clean data from businesses links, phone numbers, etc 
 - [x] add js for mobile show/hide hamburger menu
@@ -17,3 +16,7 @@
 - [ ] choose/update licenses for site
 - [x] add top banner image (or do it with html/css)
 - [ ] move to grandstbk domain
+- [ ] add business logos
+- [ ] add field for logo name 
+- [ ] normalize data provided by businesses
+- [ ] update copy
