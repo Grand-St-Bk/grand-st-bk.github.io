@@ -11,4 +11,4 @@ This is an opportunity for businesses and neighbors to cross promote and support
 
 Fill out the form to get your business listed on the site, email your logo to GRANDstBKNY@gmail.com, and post your event on the community events calendar.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdzIqRezcZ2JkNObq2JXCxUtKolT-_MiGphq06COupp_JitJg/viewform?embedded=true" width="800" height="4000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdzIqRezcZ2JkNObq2JXCxUtKolT-_MiGphq06COupp_JitJg/viewform?embedded=true" width="100%" height="3000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
