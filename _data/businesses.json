@@ -1,79 +1,86 @@
 [
-   {
-      "businessName":"Gertie",
-      "businessWebsiteUrl":"https://www.gertie.nyc/",
-      "businessPhoneNumber":"718-636-0902",
-      "businessInstagram":"gertienyc",
-      "businessFacebook":"GertieBrooklyn",
-      "businessBio":"We're Gertie a Modern Jew-ish Delicatessen + Bar.  Gertie has always been a community space, and we are so excited to invite people back in this summer for delicious food + beverage + comedy, music and games on Grand St."
-   },
-   {
-      "businessName":"Twenty Sided Store",
-      "businessWebsiteUrl":"https://twentysidedstore.com",
-      "businessPhoneNumber":"718-963-1578",
-      "businessInstagram":"20sidedstore",
-      "businessFacebook":"20sidedstore",
-      "businessTwitter":"20sidedstore",
-      "businessTwitch":"20sidedtv",
-      "businessBio":"Twenty Sided Store has been bringing people together since 2011. Celebrate 10 years of Twenty Sided with us this summer for Grand St. BK Open Streets Block Party and play games with us all summer long!"
-   },
-   {
-      "businessName":"Full Circle Bar",
-      "businessWebsiteUrl":"https://www.fullcirclebar.com/",
-      "businessInstagram":"fullcirclebarbk",
-      "businessFacebook":"fullcirclebar",
-      "altWebsite1Title":"Brewskee-Ball",
-      "altWebsiteUrl":"https://www.brewskeeball.com/",
-      "altWebsite2Title":"Five Corn Hole",
-      "altWebsite2Url":"https://5holecornhole.com/",
-      "businessBio":"Can't wait to roll some skee-balls, toss some bags, drink some beers and sip some frozen margs together this summer! We love our slice of Grand Street and we love you."
-   },
-   {
-      "businessName":"About Glamour",
-      "businessWebsiteUrl":"http://www.aboutglamour.net/",
-      "businessPhoneNumber":"718-599-3044",
-      "businessInstagram":"aboutglamourinc",
-      "altInstagram":"aggallerybrooklyn",
-      "businessBio":"About Glamour + AG Gallery is a designers and fine vintage clothing store and an contemporary art gallery located in Williamsburg since 2003. Our current business hours are 12-7PM open everyday."
-   },
-   {
-      "businessName":"Bad Habit",
-      "businessWebsiteUrl":"https://www.badhabiticecreams.com/",
-      "businessInstagram":"badhabit.icecreams",
-      "businessBio":"Bad Habit is an ice cream company formed by husband and wife duo Jesse and Javier Zuniga. Pivoting to a passion project of their own, they now create ice creams that marry their professional experience in top restaurants with inventive flavors and a New York attitude. "
-   },
-   {
-      "businessName":"Emmy Squared Pizza",
-      "businessWebsiteUrl":"https://www.emmysquaredpizza.com/",
-      "businessPhoneNumber":"718-360-4535",
-      "businessInstagram":"emmysquaredpizza",
-      "businessFacebook":"EmmySquared",
-      "businessBio":"Join us this summer on Grand St! Dine inside or outdoors and enjoy our signature Detroit-style pizza - marked by its square shape, crispy bottom, fluffy dough, cheesy \"frico\" crust - our famed double-stack burger, healthy salads, pretzel bun sandwiches, craft cocktails, local beers, and more. We're so excited to welcome our neighbors back in with us and look forward to Summer 2021!"
-   },
-   {
-      "businessName":"Ghost Robot",
-      "businessWebsiteUrl":"https://ghostrobot.com/",
-      "businessPhoneNumber":"212-343-0900",
-      "businessInstagram":"ghostrobot",
-      "businessFacebook":"ghostrobot",
-      "businessTwitter":"ghostrobot",
-      "businessBio":"Ghost Robot is the creative studio of the future. We bring together the best of commercials, music videos, original content, and telepathy."
-   },
-   {
-      "businessName":"M Shanghai",
-      "businessWebsiteUrl":"https://m-shanghai.com/",
-      "businessPhoneNumber":"718-384-9300",
-      "businessInstagram":"mshanghaibk",
-      "businessFacebook":"M-Shanghai-Bistro-and-Garden-167202726669641",
-      "businessBio":"We provide freshly made dumplings and dishes, famous for our soup dumpling! "
-   },
-   {
-      "businessName":"Union Pool",
-      "businessWebsiteUrl":"https://union-pool.com/",
-      "businessPhoneNumber":"718-609-0484",
-      "businessInstagram":"union_pool",
-      "businessFacebook":"UnionPool1",
-      "businessTwitter":"UnionPool",
-      "businessBio":"Union Pool has been a Brooklyn mainstay for over 20 years hosting innumerable concerts, benefits, and other live events. It is both a local bar and destination for those visiting NYC."
-   }
+    {
+        "businessName": "Gertie",
+        "businessWebsiteUrl": "https://www.gertie.nyc/",
+        "businessPhoneNumber": "718-636-0902",
+        "businessInstagram": "gertienyc",
+        "businessFacebook": "GertieBrooklyn",
+        "businessBio": "We're Gertie a Modern Jew-ish Delicatessen + Bar.  Gertie has always been a community space, and we are so excited to invite people back in this summer for delicious food + beverage + comedy, music and games on Grand St."
+    },
+    {
+        "businessName": "Twenty Sided Store",
+        "businessWebsiteUrl": "https://twentysidedstore.com/",
+        "businessPhoneNumber": "718-963-1578",
+        "businessInstagram": "20sidedstore",
+        "businessFacebook": "20sidedstore",
+        "businessTwitter": "20sidedstore",
+        "businessTwitch": "20sidedtv",
+        "businessBio": "Twenty Sided Store has been bringing people together since 2011. Celebrate 10 years of Twenty Sided with us this summer for Grand St. BK Open Streets Block Party and play games with us all summer long!"
+    },
+    {
+        "businessName": "Full Circle Bar",
+        "businessWebsiteUrl": "https://www.fullcirclebar.com/",
+        "businessInstagram": "fullcirclebarbk",
+        "businessFacebook": "fullcirclebar",
+        "altWebsite1Title": "Brewskee-Ball",
+        "altWebsiteUrl": "https://www.brewskeeball.com/",
+        "altWebsite2Title": "Five Corn Hole",
+        "altWebsite2Url": "https://5holecornhole.com/",
+        "businessBio": "Can't wait to roll some skee-balls, toss some bags, drink some beers and sip some frozen margs together this summer! We love our slice of Grand Street and we love you."
+    },
+    {
+        "businessName": "About Glamour",
+        "businessWebsiteUrl": "http://www.aboutglamour.net/",
+        "businessPhoneNumber": "718-599-3044",
+        "businessInstagram": "aboutglamourinc",
+        "altInstagram": "aggallerybrooklyn",
+        "businessBio": "About Glamour + AG Gallery is a designers and fine vintage clothing store and an contemporary art gallery located in Williamsburg since 2003. Our current business hours are 12-7PM open everyday."
+    },
+    {
+        "businessName": "Bad Habit",
+        "businessWebsiteUrl": "https://www.badhabiticecreams.com/",
+        "businessInstagram": "badhabit.icecreams",
+        "businessBio": "Bad Habit is an ice cream company formed by husband and wife duo Jesse and Javier Zuniga. Pivoting to a passion project of their own, they now create ice creams that marry their professional experience in top restaurants with inventive flavors and a New York attitude. "
+    },
+    {
+        "businessName": "Emmy Squared Pizza",
+        "businessWebsiteUrl": "https://www.emmysquaredpizza.com/",
+        "businessPhoneNumber": "718-360-4535",
+        "businessInstagram": "emmysquaredpizza",
+        "businessFacebook": "EmmySquared",
+        "businessBio": "Join us this summer on Grand St! Dine inside or outdoors and enjoy our signature Detroit-style pizza - marked by its square shape, crispy bottom, fluffy dough, cheesy \"frico\" crust - our famed double-stack burger, healthy salads, pretzel bun sandwiches, craft cocktails, local beers, and more. We're so excited to welcome our neighbors back in with us and look forward to Summer 2021!"
+    },
+    {
+        "businessName": "Ghost Robot",
+        "businessWebsiteUrl": "https://ghostrobot.com/",
+        "businessPhoneNumber": "212-343-0900",
+        "businessInstagram": "ghostrobot",
+        "businessFacebook": "ghostrobot",
+        "businessTwitter": "ghostrobot",
+        "businessBio": "Ghost Robot is the creative studio of the future. We bring together the best of commercials, music videos, original content, and telepathy."
+    },
+    {
+        "businessName": "Leo",
+        "businessWebsiteUrl": "https://www.leo-nyc.com/",
+        "businessPhoneNumber": "718-384-6531",
+        "businessInstagram": "leosourdough",
+        "businessBio": "Naturally fermented breads and pizza, natural wine, Variety coffee, and more."
+    },
+    {
+        "businessName": "M Shanghai",
+        "businessWebsiteUrl": "https://m-shanghai.com/",
+        "businessPhoneNumber": "718-384-9300",
+        "businessInstagram": "mshanghaibk",
+        "businessFacebook": "M-Shanghai-Bistro-and-Garden-167202726669641",
+        "businessBio": "We provide freshly made dumplings and dishes, famous for our soup dumpling! "
+    },
+    {
+        "businessName": "Union Pool",
+        "businessWebsiteUrl": "https://union-pool.com/",
+        "businessPhoneNumber": "718-609-0484",
+        "businessInstagram": "union_pool",
+        "businessFacebook": "UnionPool1",
+        "businessTwitter": "UnionPool",
+        "businessBio": "Union Pool has been a Brooklyn mainstay for over 20 years hosting innumerable concerts, benefits, and other live events. It is both a local bar and destination for those visiting NYC."
+    }
 ]
