@@ -23,6 +23,17 @@ $navbar-item-hover-color: $go_green;
 
 @import "../node_modules/bulma/bulma.sass";
 
+main.section {
+  padding: 1.5rem;
+}
+
+@media screen and (min-width: $tablet) {
+  main.section {
+    padding-right: 3rem;
+    padding-left: 3rem;
+  }
+}
+
 .page-content p {
   @extend .block
 }
