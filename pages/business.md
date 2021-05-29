@@ -4,7 +4,7 @@ title: Business
 permalink: /business/
 ---
 
-## Businesses of Williamsburg Unite!
+## Team Up With Us!
 We are hoping to draw a crowd on Grand Street this summer with the Open Streets Block Party and we would like to invite you to participate. 
 
 This is an opportunity for businesses and neighbors to cross promote and support each other by generating more foot traffic to the SouthSide of Williamsburg. 
