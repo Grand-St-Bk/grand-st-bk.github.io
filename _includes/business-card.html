@@ -1,0 +1,78 @@
+<div class="column is-one-third">
+
+  <div class="card">
+    
+    <header class="card-header">
+      <div class="card-image has-image-centered">
+        <figure class="image is-128x128">
+          <img src="/assets/images/logos/{{ business.businessName | downcase | replace: ' ', '-' }}.png" alt="{{ business.businessName }}">
+        </figure>
+      </div>
+    </header>
+    
+    <div class="card-content">
+
+      <h4 class="card-header-title">{{ business.businessName }}</h4>
+
+      <div class="content">
+
+        <p>{{ business.businessBio }}</p>
+
+        <ul>
+          {% if business.businessWebsiteUrl %}
+            {% assign url = business.businessWebsiteUrl %}
+            {% assign title = business.businessName %}
+            {% include business-web.html %}
+          {% endif %}
+
+          {% if business.businessInstagram %}
+            {% assign handle = business.businessInstagram %}
+            {% assign social = 'instagram' %}
+            {% include business-social.html %}
+          {% endif %}
+
+          {% if business.altInstagram %}
+            {% assign handle = business.altInstagram %}
+            {% assign social = 'instagram' %}
+            {% include business-social.html %}
+          {% endif %}
+
+          {% if business.businessFacebook %}
+            {% assign handle = business.businessFacebook %}
+            {% assign social = 'facebook' %}
+            {% include business-social.html %}
+          {% endif %}
+
+          {% if business.businessTwitter %}
+            {% assign handle = business.businessTwitter %}
+            {% assign social = 'twitter' %}
+            {% include business-social.html %}
+          {% endif %}
+
+          {% if business.businessTwitch %}
+            {% assign handle = business.businessTwitch %}
+            {% assign social = 'twitch' %}
+            {% include business-social.html %}
+          {% endif %}
+
+          {% if business.altWebsite1Title %}
+            {% assign url = business.altWebsiteUrl %}
+            {% assign title = business.altWebsite1Title %}
+            {% include business-web.html %}
+          {% endif %}
+
+          {% if business.altWebsite2Title %}
+            {% assign url = business.altWebsite2Url %}
+            {% assign title = business.altWebsite2Title %}
+            {% include business-web.html %}
+          {% endif %}
+
+        </ul>
+        
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
