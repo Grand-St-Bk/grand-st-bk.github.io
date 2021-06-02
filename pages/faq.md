@@ -21,7 +21,7 @@ The permit granted to our section of Grand Street is a [Temporary Full Closure](
 
 ## When will the street be closed for Open Streets on Grand?
 **Location**: Grand St. between Marcy Ave & Havemeyer St.  
-**Dates**: Memorial Day Weekend - Labor Day Weekend  
+**Dates**: Memorial Day Weekend FRI 5/28 - Labor Day Weekend SUN 9/5  
 **Times**:
 
 * Fridays 5pm-11pm
@@ -40,12 +40,14 @@ Cars may enter and exit at Havemeyer St. If your car is parked behind a barricad
 ## Safety Rules & Guidelines:
 All NYC Covid rules and regulations apply - if you are not vaccinated we kindly ask that you wear a face mask and socially distance yourself from others. 
 
-Everyone is welcome and we are all here to have fun! Please inform a Street Team volunteer or [email grandstbkny@gmail.com](mailto:grandstbkny@gmail.com) if a situation gets out of hand. If it is an emergency please call 911.
+Everyone is welcome and we are all here to have fun! Please inform a Street Team volunteer or [email grandstbkny@gmail.com](mailto:grandstbkny@gmail.com) if a situation arises. If it is an emergency please call 911.
 
 ## How can I help?
-**Street Team Volunteers**: [Street Team volunteers](/street-team) will be helping out by picking up trash, maintaining placement of street barriers, welcoming new folks to the block, and assisting businesses and residents in setting up tables and other activities. [Join the Street Team](/street-team) today!
+**[Street Team volunteers](/street-team)** will be helping out by picking up trash, maintaining placement of street barriers, welcoming new folks to the block, and assisting businesses and residents in setting up tables and other activities. [Join the Street Team](/street-team) today!
 
-**Local Businesses**: [Join the Grand St. BK](/business) community!
+**Friends & Neighbors**: [Join the discord](https://discord.gg/pPnsFpkgfG) today! Stay in touch with one another, make plans to meet up, share photos, and stay informed on events, activities and weather updates!
+
+**Local Businesses**: Any business in Williamsburg within walking distance from Grand St between Havemeyer and Marcy can get added to the list of participating businesses. [Join the Grand St. BK](/business) community!
 
 ## Questions / Concerns?
 [Email us](mailto:grandstbkny@gmail.com)!
