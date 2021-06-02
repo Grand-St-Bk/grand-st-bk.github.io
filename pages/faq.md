@@ -45,7 +45,7 @@ Everyone is welcome and we are all here to have fun! Please inform a Street Team
 ## How can I help?
 **[Street Team volunteers](/street-team)** will be helping out by picking up trash, maintaining placement of street barriers, welcoming new folks to the block, and assisting businesses and residents in setting up tables and other activities. [Join the Street Team](/street-team) today!
 
-**Friends & Neighbors**: [Join the discord](https://discord.gg/pPnsFpkgfG) today! Stay in touch with one another, make plans to meet up, share photos, and stay informed on events, activities and weather updates!
+**Friends & Neighbors**: [Join the discord](https://discord.gg/3JxneZsa8r) today! Stay in touch with one another, make plans to meet up, share photos, and stay informed on events, activities and weather updates!
 
 **Local Businesses**: Any business in Williamsburg within walking distance from Grand St between Havemeyer and Marcy can get added to the list of participating businesses. [Join the Grand St. BK](/business) community!
 
