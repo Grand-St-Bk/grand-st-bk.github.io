@@ -5,7 +5,7 @@
     <header class="card-header">
       <div class="card-image has-image-centered">
         <figure class="image is-128x128">
-          <img src="/assets/images/logos/{{ business.businessName | downcase | replace: ' ', '-' }}.png" alt="{{ business.businessName }}">
+          <img src="/assets/images/logos/{{ business.businessName | downcase | replace: ' ', '-' | replace: "'", "" }}.png" alt="{{ business.businessName }}">
         </figure>
       </div>
     </header>

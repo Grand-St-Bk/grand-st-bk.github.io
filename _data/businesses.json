@@ -1,5 +1,4 @@
-[
-    {
+[{
         "businessName": "Gertie",
         "businessWebsiteUrl": "https://www.gertie.nyc/",
         "businessPhoneNumber": "718-636-0902",
@@ -14,27 +13,47 @@
         "businessInstagram": "20sidedstore",
         "businessFacebook": "20sidedstore",
         "businessTwitter": "20sidedstore",
-        "businessTwitch": "20sidedtv",
-        "businessBio": "Twenty Sided Store has been bringing people together since 2011. Celebrate 10 years of Twenty Sided with us this summer for Grand St. BK Open Streets Block Party and play games with us all summer long!"
+        "anyOtherBusinessRelatedLinks": "https://twitch.tv/20sidedtv",
+        "businessBio": "Twenty Sided Store has been bringing people together since 2011. Celebrate 10 years of Twenty Sided with us this summer for Grand St. BK Open Streets Block Party and play games with us all summer long!",
+        "businessTwitch": "20sidedtv"
     },
     {
         "businessName": "Full Circle Bar",
         "businessWebsiteUrl": "https://www.fullcirclebar.com/",
         "businessInstagram": "fullcirclebarbk",
         "businessFacebook": "fullcirclebar",
+        "anyOtherBusinessRelatedLinks": "https://www.brewskeeball.com/\nhttps://5holecornhole.com/",
+        "businessBio": "Can't wait to roll some skee-balls, toss some bags, drink some beers and sip some frozen margs together this summer! We love our slice of Grand Street and we love you.",
         "altWebsite1Title": "Brewskee-Ball",
         "altWebsiteUrl": "https://www.brewskeeball.com/",
         "altWebsite2Title": "Five Hole Cornhole",
-        "altWebsite2Url": "https://5holecornhole.com/",
-        "businessBio": "Can't wait to roll some skee-balls, toss some bags, drink some beers and sip some frozen margs together this summer! We love our slice of Grand Street and we love you."
+        "altWebsite2Url": "https://5holecornhole.com/"
+    },
+    {
+        "businessName": "Ars Poetica",
+        "businessWebsiteUrl": "https://www.arspoetica.us/",
+        "businessPhoneNumber": "(646) 481-0652",
+        "businessInstagram": "arspoetica.us",
+        "businessFacebook": "arspoetica.us",
+        "businessTwitter": "arspoetica_us",
+        "businessBio": "Brooklyn’s queer woman-owned poetic and creative agency, using the power of words to transform and connect."
     },
     {
         "businessName": "About Glamour",
         "businessWebsiteUrl": "http://www.aboutglamour.net/",
         "businessPhoneNumber": "718-599-3044",
         "businessInstagram": "aboutglamourinc",
-        "altInstagram": "aggallerybrooklyn",
-        "businessBio": "About Glamour + AG Gallery is a designers and fine vintage clothing store and an contemporary art gallery located in Williamsburg since 2003. Our current business hours are 12-7PM open everyday."
+        "anyOtherBusinessRelatedLinks": "https://www.instagram.com/aggallerybrooklyn/",
+        "businessBio": "About Glamour + AG Gallery is a designers and fine vintage clothing store and an contemporary art gallery located in Williamsburg since 2003. Our current business hours are 12-7PM open everyday.",
+        "altInstagram": "aggallerybrooklyn"
+    },
+    {
+        "businessName": "Andrea's Chicken",
+        "businessWebsiteUrl": "https://www.andreaschicken.com/",
+        "businessPhoneNumber": "929-295-0003",
+        "businessInstagram": "andreaschickenbrooklyn",
+        "businessFacebook": "andreaschicken2",
+        "businessBio": "Peruvian Restaurant & Pisco Bar. The best rotisserie chicken, jalea, Chaufas, ceviches, pisco sour, mojitos, margaritas and much more! (No reservations needed) outdoor seating. "
     },
     {
         "businessName": "Bad Habit",
@@ -60,6 +79,17 @@
         "businessBio": "Ghost Robot is the creative studio of the future. We bring together the best of commercials, music videos, original content, and telepathy."
     },
     {
+        "businessName": "Happy Creative Dig",
+        "businessWebsiteUrl": "https://www.happycreativedig.com/",
+        "businessPhoneNumber": "9292762322",
+        "businessInstagram": "happycreativedig",
+        "businessFacebook": "happycreativedig",
+        "anyOtherBusinessRelatedLinks": "https://www.eventbrite.com/o/happy-creative-dig-26868293661",
+        "businessBio": "Happy Creative Dig is a pop-up workshop and event space located in Williamsburg, Brooklyn. It is home to unique concepts and interesting experiences made possible by the creatives and artistics. So whether you want to meet people through art classes, music collaboration, pop-up fitness experience, and fun food gatherings, we want the place to serve as your perfect venue. Our goal is to create experiences through the various events we are hosting.",
+        "altWebsite1Title": "Events",
+        "altWebsiteUrl": "https://www.eventbrite.com/o/happy-creative-dig-26868293661"
+    },
+    {
         "businessName": "Leo",
         "businessWebsiteUrl": "https://www.leo-nyc.com/",
         "businessPhoneNumber": "718-384-6531",
@@ -75,6 +105,27 @@
         "businessBio": "We provide freshly made dumplings and dishes, famous for our soup dumpling! "
     },
     {
+        "businessName": "Persons of Interest",
+        "businessWebsiteUrl": "https://www.personsofinterestbklyn.com/",
+        "businessPhoneNumber": "718-218-9100",
+        "businessInstagram": "personsofinterestbarbershop",
+        "businessFacebook": "PersonsofInterestBarbershop",
+        "businessBio": "Persons of Interest is an internationally recognized barbershop/salon celebrating its 10th year in the heart of south Williamsburg. POI specializes in precision haircuts and perfect service in a welcoming, mid century inspired environment.  We are serious about hair and tailor each cut to our customer's needs.   We look forward to meeting you. Don't hesitate to stop by for a drink and a consultation.  See you soon!"
+    },
+    {
+        "businessName": "Strutting Mutts",
+        "businessWebsiteUrl": "http://www.struttingmutts.com/",
+        "businessInstagram": "Strutting_mutts",
+        "businessBio": "Strutting Mutts is the most fun, playful and interactive dog walking and sitting service in Williamsburg and Greenpoint."
+    },
+    {
+        "businessName": "TheSkinDripCo",
+        "businessWebsiteUrl": "https://theskindripco.com/",
+        "businessPhoneNumber": "3477579843",
+        "businessInstagram": "theskindripco",
+        "businessBio": "The Skin Drip Co is an all natural, cruelty free skincare brand made in Brooklyn. Providing you with luxury skincare products the natural way. Indulging in self care is key to keeping your mind body and spirit healthy. I am a born and raised Brooklyn native, I’ve lived in Williamsburg for 24 years. Im someone who suffers from severe allergies and skin conditions, which was the inspiration behind The Skin Drip Co. Creating products that anyone can feel confident using is the mission behind my brand. Im looking forward to joining community gatherings on Grand street this summer because this will be a perfect way to get to build a stronger connection with my community and interact with new locals. Xoxo The Skin Drip Co ❤️"
+    },
+    {
         "businessName": "Union Pool",
         "businessWebsiteUrl": "https://union-pool.com/",
         "businessPhoneNumber": "718-609-0484",
@@ -82,5 +133,13 @@
         "businessFacebook": "UnionPool1",
         "businessTwitter": "UnionPool",
         "businessBio": "Union Pool has been a Brooklyn mainstay for over 20 years hosting innumerable concerts, benefits, and other live events. It is both a local bar and destination for those visiting NYC."
+    },
+    {
+        "businessName": "Xolo Cantillo",
+        "businessWebsiteUrl": "https://www.xolocantillo.com/",
+        "businessInstagram": "jcxolo",
+        "businessFacebook": "Xolocantillo",
+        "businessBio": "Portraits for your pet and contemporary prints",
+        "altInstagram": "pets_portraitsby_xolocantillo"
     }
 ]
