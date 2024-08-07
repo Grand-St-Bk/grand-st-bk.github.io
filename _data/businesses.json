@@ -1,21 +1,11 @@
 [
    {
-      "businessName":"Gertie",
-      "businessWebsiteUrl":"https://www.gertie.nyc/",
-      "businessPhoneNumber":"718-636-0902",
-      "businessInstagram":"gertienyc",
-      "businessFacebook":"GertieBrooklyn",
-      "businessBio":"We're Gertie a Modern Jew-ish Delicatessen + Bar.  Gertie has always been a community space, and we are so excited to invite people back in this summer for delicious food + beverage + comedy, music and games on Grand St."
-   },
-   {
       "businessName":"Twenty Sided Store",
       "businessWebsiteUrl":"https://twentysidedstore.com",
       "businessPhoneNumber":"718-963-1578",
       "businessInstagram":"20sidedstore",
-      "businessFacebook":"20sidedstore",
-      "businessTwitter":"20sidedstore",
       "anyOtherBusinessRelatedLinks":"https://twitch.tv/20sidedtv",
-      "businessBio":"Twenty Sided Store has been bringing people together since 2011. Celebrate 10 years of Twenty Sided with us this summer for Grand St. BK Open Streets Block Party and play games with us all summer long!",
+      "businessBio":"Since 2011 Twenty Sided has been bringing people together.",
       "businessTwitch":"20sidedtv"
    },
    {
@@ -57,18 +47,20 @@
       "businessBio":"Brooklyn’s queer woman-owned poetic and creative agency, using the power of words to transform and connect."
    },
    {
-      "businessName":"Bad Habit",
-      "businessWebsiteUrl":"https://www.badhabiticecreams.com/",
-      "businessInstagram":"badhabit.icecreams",
-      "businessBio":"Bad Habit is an ice cream company formed by husband and wife duo Jesse and Javier Zuniga. Pivoting to a passion project of their own, they now create ice creams that marry their professional experience in top restaurants with inventive flavors and a New York attitude. "
-   },
-   {
       "businessName":"Emmy Squared Pizza",
       "businessWebsiteUrl":"https://www.emmysquaredpizza.com/",
       "businessPhoneNumber":"718-360-4535",
       "businessInstagram":"emmysquaredpizza",
       "businessFacebook":"EmmySquared",
       "businessBio":"Join us this summer on Grand St! Dine inside or outdoors and enjoy our signature Detroit-style pizza - marked by its square shape, crispy bottom, fluffy dough, cheesy \"frico\" crust - our famed double-stack burger, healthy salads, pretzel bun sandwiches, craft cocktails, local beers, and more. We're so excited to welcome our neighbors back in with us and look forward to Summer 2021!"
+   },
+   {
+      "businessName":"Gertie",
+      "businessWebsiteUrl":"https://www.gertie.nyc/",
+      "businessPhoneNumber":"718-636-0902",
+      "businessInstagram":"gertienyc",
+      "businessFacebook":"GertieBrooklyn",
+      "businessBio":"We're Gertie a Modern Jew-ish Delicatessen + Bar.  Gertie has always been a community space, and we are so excited to invite people back in this summer for delicious food + beverage + comedy, music and games on Grand St."
    },
    {
       "businessName":"Ghost Robot",
@@ -78,17 +70,6 @@
       "businessFacebook":"ghostrobot",
       "businessTwitter":"ghostrobot",
       "businessBio":"Ghost Robot is the creative studio of the future. We bring together the best of commercials, music videos, original content, and telepathy."
-   },
-   {
-      "businessName":"Happy Creative Dig",
-      "businessWebsiteUrl":"https://www.happycreativedig.com/",
-      "businessPhoneNumber":"9292762322",
-      "businessInstagram":"happycreativedig",
-      "businessFacebook":"happycreativedig",
-      "anyOtherBusinessRelatedLinks":"https://www.eventbrite.com/o/happy-creative-dig-26868293661",
-      "businessBio":"Happy Creative Dig is a pop-up workshop and event space located in Williamsburg, Brooklyn. It is home to unique concepts and interesting experiences made possible by the creatives and artistics. So whether you want to meet people through art classes, music collaboration, pop-up fitness experience, and fun food gatherings, we want the place to serve as your perfect venue. Our goal is to create experiences through the various events we are hosting.",
-      "altWebsite1Title":"Events",
-      "altWebsiteUrl":"https://www.eventbrite.com/o/happy-creative-dig-26868293661"
    },
    {
       "businessName":"Leo",
