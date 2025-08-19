@@ -14,12 +14,12 @@ The flower represents the [Callery Pear Tree](https://en.wikipedia.org/wiki/Pyru
 
 ## When will the street be closed for this year's Block Party?
 **Location**: Grand St. between Robeling & Havemeyer St.  
-**Date**: Saturday August 24, 2024  
+**Date**: Saturday August 23, 2025  
 **Time**: 12p-7p
 
 
 ## As a community member, what else do I need to know and how can I plan ahead?
-**Block Party 8/24/2024**: There will be *no parking or thru traffic* on Grand St. between Robeling and Havemeyer on Saturday August 24th from 12p-7p. Local businesses will be hosting live music performances & DJs, games, and more! 
+**Block Party 8/23/2025**: There will be *no parking or thru traffic* on Grand St. between Robeling and Havemeyer on Saturday August 23rd from 12p-7p. Local businesses will be hosting live music performances & DJs, games, and more! 
 
 **Community Events & Activities**: Check out the [events calendar](/calendar) for more community events. 
 
